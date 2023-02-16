@@ -1,0 +1,14 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.item-add-form input {
+    margin-right: 10px;
+}
+
+.item-add-form button {
+    width: 10%;
+    color: blue;
+    border: blue 1px solid;
+    background-color: rgb(87, 205, 220);
+}
